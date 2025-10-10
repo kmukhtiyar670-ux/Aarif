@@ -40,6 +40,12 @@
         "key": "mukhtar",
         "expirydate": "14-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1107323999796018",
+        "key": "janjkuchhari",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
     }
     
     
