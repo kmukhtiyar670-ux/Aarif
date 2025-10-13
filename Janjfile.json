@@ -58,7 +58,13 @@
         "key": "jeevan",
         "expirydate": "15-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "75ea171378a166e8",
+        "key": "sardar",
+        "expirydate": "12-10-2026",
+        "Allowoffline": false
+    },
     
     
 ]
