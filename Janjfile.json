@@ -48,7 +48,13 @@
         "Allowoffline": false
     },
     {
-        "device_id": "9e45e467bc18c375",
+        "device_id": "75ea171378a166e8",
+        "key": "singh",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
         "key": "jeevan",
         "expirydate": "15-10-2025",
         "Allowoffline": false
