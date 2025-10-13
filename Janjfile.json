@@ -46,7 +46,12 @@
         "key": "janjkuchhari",
         "expirydate": "15-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "1107323999796018",
+        "key": "8278618222",
+        "expirydate": "14-10-2025",
+        "Allowoffline": false
     
     
 ]
