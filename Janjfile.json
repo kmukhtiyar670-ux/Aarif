@@ -11,7 +11,7 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-        {
+     {
         "device_id": "1107323999796018",
         "key": "aarifali123",
         "expirydate": "15-06-2025",
@@ -81,6 +81,12 @@
         "device_id": "68354e6229a8c6c8",
         "key": "223344",
         "expirydate": "15-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "1107323999796018",
+        "key": "2443344",
+        "expirydate": "15-10-2026",
         "Allowoffline": false
     },
     
