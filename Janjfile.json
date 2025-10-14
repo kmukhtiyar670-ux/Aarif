@@ -65,6 +65,12 @@
         "expirydate": "12-10-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "9e45e467bc18c375",
+        "key": "mukhtar",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
+    },
     
     
 ]
