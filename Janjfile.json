@@ -101,6 +101,12 @@
         "expirydate": "25-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "c4319a274c46ec19",
+        "key": "c4319a274c46ec19",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
+    },
     
     
 ]
