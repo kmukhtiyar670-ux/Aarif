@@ -125,6 +125,12 @@
         "expirydate": "17-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "136779f30a3f417b",
+        "key": "136779f30a3f417b",
+        "expirydate": "28-12-2025",
+        "Allowoffline": false
+    },
     
     
 ]
