@@ -165,5 +165,12 @@
         "Allowoffline": false
         
     },
+    {
+        "device_id": "49b461c63eaaf094",
+        "key": "49b461c63eaaf094",
+        "expirydate": "20-01-2026",
+        "Allowoffline": false
+        
+    },
     
 ]
