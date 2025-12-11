@@ -172,5 +172,12 @@
         "Allowoffline": false
         
     },
+    {
+        "device_id": "fddb0e1d1e350497",
+        "key": "fddb0e1d1e350497",
+        "expirydate": "20-01-2026",
+        "Allowoffline": false
+        
+    },
     
 ]
