@@ -186,5 +186,12 @@
         "Allowoffline": false
         
     },
+    {
+        "device_id": "0507016025295272",
+        "key": "0507016025295272",
+        "expirydate": "03-01-2026",
+        "Allowoffline": false
+        
+    },
     
 ]
