@@ -200,5 +200,12 @@
         "Allowoffline": false
         
     },
+    {
+        "device_id": "a2a8daf6ca52fa38",
+        "key": "a2a8daf6ca52fa38",
+        "expirydate": "18-01-2026",
+        "Allowoffline": false
+        
+    },
     
 ]
