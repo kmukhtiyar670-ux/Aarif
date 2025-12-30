@@ -242,5 +242,12 @@
         "Allowoffline": false
         
     },
+    {
+        "device_id": "aabeab27f84e313e",
+        "key": "aabeab27f84e313e",
+        "expirydate": "30-01-2026",
+        "Allowoffline": false
+        
+    },
     
 ]
